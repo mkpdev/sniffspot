@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-  3.0.1
+  2.6.5
 
 # To setup project environment
   1. Take repository clone
